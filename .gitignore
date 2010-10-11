@@ -5,6 +5,7 @@
 *360.*
 *.lst
 *.scr
+## Core Game Files
 bin/*
 left4dead2/*.*
 left4dead2/addons/*
@@ -15,8 +16,12 @@ left4dead2/expressions/*
 left4dead2/maps/*
 left4dead2/media/*
 left4dead2/models/*
-left4dead2/materials/*
-!left4dead2/materials/vgui/*
+left4dead2/materials/correction/*
+left4dead2/materials/cubemaps/*
+left4dead2/materials/editor/*
+left4dead2/materials/temp/*
+left4dead2/materials/vgui/fonts/*
+left4dead2/materials/models/*
 left4dead2/reslists/*
 left4dead2/resource/*
 left4dead2/save/*
